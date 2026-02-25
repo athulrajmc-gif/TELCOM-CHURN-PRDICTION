@@ -1,4 +1,4 @@
-# TASK04--TELCOM-CHURN-PRDICTION
+# PYTHON PROJECT--TELCOM-CHURN-PRDICTION
 📌 Project Overview
 
 This project predicts whether a telecom customer will churn (leave the company) using machine learning.
